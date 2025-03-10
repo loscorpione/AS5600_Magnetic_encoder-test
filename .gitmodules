@@ -1,0 +1,3 @@
+[submodule "Seeed_Arduino_AS5600"]
+	path = Seeed_Arduino_AS5600
+	url = https://github.com/Seeed-Studio/Seeed_Arduino_AS5600.git
