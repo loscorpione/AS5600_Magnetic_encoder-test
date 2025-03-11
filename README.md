@@ -1,7 +1,9 @@
 # AS5600_Magnetic_encoder-test
 
 Libreria e Sketch AS5600 per sostituire un encoder rotativo elettromeccanico. 
+
 La cartella "STL 6006 Bearing" contiene i file Stl per realizzare il supporto e le manopole per il magnete assiale diam 4mm x 8mm e per il magnete radiale in dotazione al modulo.
+
 Link alla libreria: sottomodulo "Seeed_Arduino_AS5600 @ 40f4391".
 Lo  sketch: "AS5600_variabile_knob.ino"che incrementa una variabile Var tramite l'encoder magnetico AS5600, con possibilità di variare il passo incrementale e la soglia di variazione, rendendo la manopola più o meno sensibile.
 
