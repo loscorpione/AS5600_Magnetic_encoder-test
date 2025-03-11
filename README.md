@@ -7,7 +7,8 @@ La cartella "STL 6006 Bearing" contiene i file Stl per realizzare il supporto e 
 Link alla libreria: sottomodulo "Seeed_Arduino_AS5600 @ 40f4391".
 
 Lo  sketch: "AS5600_variabile_knob.ino"che incrementa una variabile Var tramite l'encoder magnetico AS5600, con possibilità di variare il passo incrementale e la soglia di variazione, rendendo la manopola più o meno sensibile.
-
+ 
+ 
 AS5600 Library and Sketch to replace an electromechanical rotary encoder.
 
 The "STL 6006 Bearing" folder contains the Stl files to make the support and knobs for the axial magnet diam 4mm x 8mm and for the radial magnet supplied with the module.
